@@ -1,5 +1,5 @@
 helloworld
-this is the first document
+this is the comitted
 practice git
 assignment
 
