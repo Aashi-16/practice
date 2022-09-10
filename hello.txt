@@ -1,5 +1,0 @@
-helloworld
-this is the comitted
-practice git
-assignment
-
